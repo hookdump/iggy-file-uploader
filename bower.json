@@ -1,7 +1,7 @@
 {
-  "name": "iggy-file-upload",
-  "version": "0.0.1",
-  "main": ["iggy-file-upload.js"],
+  "name": "iggy-file-uploader",
+  "version": "0.0.2",
+  "main": ["iggy-file-uploader.js"],
   "authors": [
     "Ignacio Freiberg <hookdump@gmail.com>"
   ]
