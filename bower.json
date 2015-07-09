@@ -4,5 +4,8 @@
   "main": ["iggy-file-uploader.js"],
   "authors": [
     "Ignacio Freiberg <hookdump@gmail.com>"
-  ]
+  ],
+	"dependencies": {
+		"es5-shim": ">=3.4.0"
+	}
 }
